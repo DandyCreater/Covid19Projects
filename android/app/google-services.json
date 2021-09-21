@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992426889987",
+    "project_id": "latihanauth3",
+    "storage_bucket": "latihanauth3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992426889987:android:3ebc8cb4f5e4c30c6dcf36",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992426889987-hc36ae19h4cpcuah3gcbcg0gnr6h1785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJBfkDI2u2--NtTRjs19v4h14Us83bPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992426889987-hc36ae19h4cpcuah3gcbcg0gnr6h1785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
